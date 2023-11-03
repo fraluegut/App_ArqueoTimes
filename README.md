@@ -22,3 +22,46 @@ Necesitarás tener instalado Flutter en tu entorno de desarrollo. Para instalar 
 
 ```bash
 git clone https://github.com/tu-usuario/arqueotimes-app.git
+```
+
+2. Entra en el directorio del proyecto:
+
+```bash
+cd arqueotimes-app
+```
+
+3. Instala las dependencias:
+
+```bash
+flutter pub get
+```
+
+4. Ejecuta la aplicación:
+```bash
+flutter run
+```
+
+### Construir la APK
+
+Para generar una APK de la aplicación, ejecuta:
+```bash
+flutter build apk
+```
+
+### Contribuir
+
+Por favor, lee CONTRIBUTING.md para obtener detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+### Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md para detalles.
+
+### Contacto
+
+Francisco Javier Luengo Gutiérrez - @https://twitter.com/FcoJavierLuengo - franciscojavierluengo@outlook.com
+
+Link del proyecto: https://www.arqueotimes.es
+
+### Agradecimientos
+
+Agradece a cualquier persona o recurso que haya sido crucial para el desarrollo de este proyecto.
